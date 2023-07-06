@@ -7,7 +7,7 @@ This is a simple number guessing game implemented in C# using the .NET Framework
 
 Before getting started, ensure that you have the following:
 
-- [Visual Studio 2017](https://visualstudio.microsoft.com/vs/older-downloads/) installed on your system.
+- [Visual Studio 2019](https://visualstudio.microsoft.com/vs/older-downloads/) installed on your system.
 
 ## Installation
 
